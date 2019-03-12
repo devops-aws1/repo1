@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8038-A937
+
+ Directory of C:\Users\RAMYA\Desktop\myproject
+
+03/12/2019  03:42 PM    <DIR>          .
+03/12/2019  03:42 PM    <DIR>          ..
+03/12/2019  03:42 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  905,038,254,080 bytes free
